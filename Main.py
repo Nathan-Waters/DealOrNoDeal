@@ -1,6 +1,7 @@
 #Nathan Waters
 #final project
 #Deal or no deal
+#March 3rd 2021
 
 #function that will take the averages of whats left and offer a deal
 def banker(caseAvg):
